@@ -105,7 +105,7 @@ new CMSStarRating({
   list: '[px-star-list]',
   input: '[px-star-input]',
   positiveStar: '[px-star = "active"]',
-  negativeStar: '[px-star = "unactive"]',
+  negativeStar: '[px-star = "inactive"]',
   maxStar: '[px-max-star]',
   wrapper: '[px-star-wrapper]',
   defaultMax: 5,
